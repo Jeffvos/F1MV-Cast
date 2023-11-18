@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `why?!`
 
-Watching F1 on F1 MultiViewer is amazing, but I couldn't find a way to create a simple information panel to be able to cast to a google chromecast or google tv. With this project you are able to cast the tab displaying race info.
+Watching F1 on F1 MultiViewer is amazing, but I couldn't find a way to create a simple information panel in F1MV, so I created this project to be able to cast to a google chromecast or google tv. With this project you are able to cast the tab displaying race info.
