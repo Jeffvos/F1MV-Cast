@@ -2,6 +2,8 @@
 
 This React app provides a simple platform for casting basic Formula 1 race information during live or ondemand sessions, playing on F1 MultiViewer.
 
+![Basic panel](/screenschots/screen1.jpg?raw=true "Basic panel")
+
 In the project directory, you can run:
 
 ### `npm start`
